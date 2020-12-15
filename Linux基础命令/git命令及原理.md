@@ -6,4 +6,4 @@
 
 基本原理：
 
-![](D:\学习\githubNote\opslean\markdown图片\git.png)
+![](https://github.com/zhaoxianlan/opslean/blob/master/markdown%E5%9B%BE%E7%89%87/git.png?raw=true)
