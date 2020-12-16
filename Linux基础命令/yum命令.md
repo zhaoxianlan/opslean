@@ -1,3 +1,5 @@
+[TOC]
+
 #### yum报错（Linux更改python默认版本）
 
 ```
